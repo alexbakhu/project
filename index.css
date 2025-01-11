@@ -1,0 +1,48 @@
+.hi {
+ line-height: 1.5;
+ letter-spacing: 1px;
+ font-family: sans-serif;
+ color: red;
+ background-color: black;
+ border: 20px solid green;
+ border-bottom: 20px dashed yellow;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-left:10px ;
+ padding-right:10px ;
+}
+.n {
+
+padding: 10px;
+border-bottom: red solid 10px;
+border-top: black solid 5px;
+border-left:black solid 5px ;
+border-right:black solid 5px ;
+background-color: yellow;
+}
+
+.o {
+
+    padding: 10px;
+    border-bottom: green solid 10px;
+    border-top: black solid 5px;
+    border-left:black solid 5px ;
+    border-right:black solid 5px ;
+    background-color: yellow;
+}
+
+.p {
+
+
+    padding: 10px;
+    border-bottom: blue solid 10px;
+    border-top: black solid 5px;
+    border-left:black solid 5px ;
+    border-right:black solid 5px ;
+    background-color: yellow;
+}
+.e{
+display: flex;
+gap: 10px;
+
+}
